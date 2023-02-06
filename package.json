@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-mathcalculator",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-mathcalculator",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Mohamed Adam",
+  "license": "ISC"
+}
